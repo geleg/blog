@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Musu pirmas irasas",
+      "body": "Nuostabus pirmas irasas",
+      "autorius": "Andrius",
+      "id": 1
+    },
+    {
+      "title": "Musu antras irasas",
+      "body": "Nuostabus antras irasas",
+      "autorius": "diana",
+      "id": 2
+    },
+    {
+      "title": "bandomas",
+      "body": "Bandomas tekstas",
+      "autorius": "Dovile",
+      "id": 3
+    }
+  ]
+}
